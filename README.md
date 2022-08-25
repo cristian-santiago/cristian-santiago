@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian Santiago</h1>
 <h3 align="center">Control and Automation engineer and a programming lover. In a constantly growing at RoR backend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-santiago&label=Profile%20views&color=0e75b6&style=flat" alt="cristian-santiago" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristian-santiago" alt="cristian-santiago" /></a> </p>
 
@@ -33,3 +32,4 @@
 <div
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian-santiago&show_icons=true&locale=en&layout=compact" alt="cristian-santiago" /></p>
 </div
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-santiago&label=Profile%20views&color=0e75b6&style=flat" alt="cristian-santiago" /> </p>
